@@ -28,4 +28,4 @@ na Vercel e o backend em um serviço que aceite FastAPI (Render, Fly, Heroku, ou
 - Nunca comite sua chave da OpenAI no GitHub. Use Secrets/Environment Variables do host.
 - Este scaffold é uma base. Revise e ajuste para produção (rate-limits, logs, validação).
 
-Criado por **Ueverton Santos — AppGenIA v1.0**
+Criado por **Ueverton — AppGenIA v1.0**
