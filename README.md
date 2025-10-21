@@ -1,4 +1,4 @@
-# AppGenIA — Versão Avançada (Ueverton Santos)
+# AppGenIA — Versão Avançada (U.S.O)
 
 Este é um scaffold funcional da versão avançada do **AppGenIA**, com frontend (Next.js) e backend (FastAPI)
 integrados para usar a OpenAI (GPT-4-o). O pacote foi criado para ser publicado no GitHub e deployado (frontend)
